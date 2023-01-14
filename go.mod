@@ -1,0 +1,11 @@
+module github.com/kenleung5e28/proglog
+
+go 1.19
+
+require github.com/gorilla/mux v1.8.0
+
+require (
+	github.com/google/go-cmp v0.5.5 // indirect
+	golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543 // indirect
+	google.golang.org/protobuf v1.28.1 // indirect
+)
